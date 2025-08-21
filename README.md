@@ -1,2 +1,2 @@
-# utils
-This repository will house random solutions for problems or repeat actions I feel like addressing
+# Utilities
+This repository will house random solutions for problems or repeat actions I feel like addressing.
